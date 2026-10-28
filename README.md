@@ -1,2 +1,2 @@
-# wadhw1
-Homework 1 - Adele, Iiris, Kirsika
+# wadhomeworks
+Homeworks - Adele, Iiris, Kirsika
