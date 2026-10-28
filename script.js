@@ -1,5 +1,4 @@
-
-fetch("https://raw.githubusercontent.com/adeletasa/wadhomeworks/refs/heads/main/posts.json")
+fetch("posts.json")
     .then(response => response.json())
     .then(posts => {
         let container = document.getElementById("posts-container");
