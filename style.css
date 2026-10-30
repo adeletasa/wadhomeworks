@@ -199,3 +199,66 @@ footer {
     background-color: #80c29d;
     text-align: center;
 }
+
+
+/* Homework 2, task 7: Profile dropdown menu */
+
+/* Positions the profile picture on the right side of the navigation bar */
+.profile {
+    position: relative;
+    margin-left: auto;
+}
+
+/* Styles the profile button */
+#profileButton {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+/* Makes the profile picture round */
+#profileButton img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+/* Hides the dropdown menu by default */
+.dropdown {
+    display: none;
+    position: absolute;
+    top: 45px;
+    right: 0;
+    min-width: 200px;
+    padding: 15px;
+    background-color: #c1e3cd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 10;
+}
+
+/* Shows the dropdown menu when clicked */
+.dropdown.show {
+    display: block;
+}
+
+/* Styles the text inside the dropdown */
+.dropdown p {
+    color: #25283f;
+    margin: 10px 0;
+}
+
+/* Styles the logout link */
+.dropdown a {
+    color: #468065;
+    text-decoration: none;
+}
+
+/* Changes the logout link color when hovered */
+.dropdown a:hover {
+    color: white;
+    background-color: #468065;
+}
+
