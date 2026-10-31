@@ -2,10 +2,27 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
+    background-color: #FFE8D6;
 }
 
 /* Header and navigation */
 
+.feed-header {
+    text-align: center;
+    margin: 35px 0 25px;
+}
+
+.feed-header h1 {
+    color: #355E48;
+    font-size: 30px;
+    margin-bottom: 8px;
+}
+
+.feed-header p {
+    color: #758679;
+    font-size: 15px;
+    font-style: italic;
+}
 /* Styles the header at the top of the page */
 header {
     background-color: #80c29d;
