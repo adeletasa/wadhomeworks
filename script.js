@@ -1,4 +1,4 @@
-fetch("posts.json")
+fetch("https://api.npoint.io/c82430f359264833b033")
     .then(response => response.json())
     .then(posts => {
         let container = document.getElementById("posts-container");
