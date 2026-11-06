@@ -1,0 +1,73 @@
+
+[
+  {
+    "id": 1,
+    "author": "Whiskers",
+    "date": "2026-10-28",
+    "text": "Meow! My human is late with breakfast again. Unacceptable.",
+    "image": "images/cat1.jpg"
+  },
+  {
+    "id": 2,
+    "author": "Mochi",
+    "date": "2026-10-27",
+    "text": "Found a new cardboard box. Best day ever!",
+    "image": "images/cat2.jpg"
+  },
+  {
+    "id": 3,
+    "author": "Luna",
+    "date": "2026-10-26",
+    "text": "3 AM is the perfect time to run around the house.",
+    "image": null
+  },
+  {
+    "id": 4,
+    "author": "Milo",
+    "date": "2026-10-25",
+    "text": "I knocked a glass off the table. No regrets.",
+    "image": "images/cat3.jpg"
+  },
+  {
+    "id": 5,
+    "author": "Biscuit",
+    "date": "2026-10-24",
+    "text": "I have been starving for 15 minutes. Send help.",
+    "image": null
+  },
+  {
+    "id": 6,
+    "author": "Noodle",
+    "date": "2026-10-23",
+    "text": "My human bought me an expensive bed. I prefer the box.",
+    "image": "images/cat4.jpg"
+  },
+  {
+    "id": 7,
+    "author": "Oliver",
+    "date": "2026-10-22",
+    "text": "The red dot escaped again. One day I will catch it.",
+    "image": null
+  },
+  {
+    "id": 8,
+    "author": "Peanut",
+    "date": "2026-10-21",
+    "text": "Sat on my human's keyboard. Apparently I deleted something important.",
+    "image": "images/cat5.jpg"
+  },
+  {
+    "id": 9,
+    "author": "Simba",
+    "date": "2026-10-20",
+    "text": "I own this house. The humans just pay rent.",
+    "image": null
+  },
+  {
+    "id": 10,
+    "author": "Pudding",
+    "date": "2026-10-19",
+    "text": "Took a 6-hour nap. Time for another nap.",
+    "image": "images/cat6.jpg"
+  }
+]
