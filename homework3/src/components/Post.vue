@@ -42,3 +42,56 @@ function likePost() {
     </button>
   </article>
 </template>
+
+<style scoped>
+.post {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  max-width: 600px;
+}
+
+.post-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.post-header strong {
+  font-size: 18px;
+}
+
+.post-header span {
+  color: gray;
+  font-size: 14px;
+}
+
+.post p {
+  margin-bottom: 15px;
+}
+
+.post-image {
+  display: block;
+  max-width: 100%;
+  width: auto;
+  max-height: 300px;
+  object-fit: contain;
+  border-radius: 8px;
+  margin: 0 auto 15px;
+}
+
+.post button {
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 8px 15px;
+  cursor: pointer;
+}
+
+.post button:hover {
+  background-color: #ffe5e9;
+}
+</style>
+
