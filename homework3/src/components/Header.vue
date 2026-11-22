@@ -4,7 +4,7 @@ import { RouterLink } from "vue-router";
 
 <template>
   <header class="site-header">
-    <h1>Catwitter</h1>
+    <h1>Zzzzzz</h1>
 
     <nav>
       <RouterLink to="/">Home</RouterLink>
