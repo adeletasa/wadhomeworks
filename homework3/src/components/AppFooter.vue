@@ -2,7 +2,7 @@
 </script>
 <template>
   <footer class="app-footer">
-    <p>© 2026 Z — formerly Catwitter, currently napping.</p>
+    <p>© 2026 Zzzzzz — formerly Catwitter, currently napping.</p>
     <p>All rights reserved.</p>
   </footer>
 </template>
