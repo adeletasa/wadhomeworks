@@ -33,3 +33,15 @@ a,
     padding: 0 2rem;
   }
 }
+body {
+  display: block;
+  margin: 0;
+}
+
+#app {
+  display: block;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}

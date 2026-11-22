@@ -51,6 +51,9 @@ function likePost() {
   padding: 20px;
   margin-bottom: 20px;
   max-width: 600px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .post-header {

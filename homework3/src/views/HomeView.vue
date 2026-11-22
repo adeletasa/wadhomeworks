@@ -27,3 +27,11 @@ function resetLikes() {
     <button @click="resetLikes">Reset Likes</button>
   </main>
 </template>
+
+<style scoped>
+main {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+</style>
