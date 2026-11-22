@@ -18,7 +18,7 @@ function resetLikes() {
 
 <template>
   <main>
-    <h1>Catwitter</h1>
+    <h1>Zzzzzz</h1>
 
     <div class="posts">
       <Post v-for="post in posts" :key="post.id" :post-id="post.id" />
